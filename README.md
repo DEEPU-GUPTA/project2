@@ -1,3 +1,4 @@
 # New project 
 
-this project was crested from local system.
+this project was created from local system.
+Created by Deepu Gupta
